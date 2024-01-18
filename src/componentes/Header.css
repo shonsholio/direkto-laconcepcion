@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-header{
+    display: flex;
+    align-items: center;
+}
+.contenedor-logo img{
+    width: 260px;
+}
+
+.logo{
+}
+.titulo{
+    float: right;
+    margin: 0 0 0 40px;
+    font-size: 2em;
+}
+
+/* Diseño para moviles */
+@media(max-width: 430px){
+  .header{
+    margin: 15px 0 0 0;
+  }
+  .contenedor-header{
+    display: inline;
+    text-align: center;
+  }
+
+.contenedor-logo img{
+    width: 200px;
+}
+
+.titulo{
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: 2em;
+}
+}

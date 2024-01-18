@@ -1,0 +1,58 @@
+.info-precio{
+  display: flex;
+  margin: 20px 0 0 150px;
+  width: 250px;
+}
+.valor-precio{  
+  color: orange;
+  font-size: 2em;
+}
+.titulo-precio{
+  color: rgb(0, 8, 116);
+  font-size: 1em;
+}
+.contenedor-slider{
+  width: 1000px;
+  height: auto;
+  margin: 20px auto 0 auto;
+}
+.slider{
+  aspect-ratio: 16/9;
+  width: 1000px;
+  display: flex;
+  overflow: scroll;
+  scroll-snap-type: x mandatory;
+}
+.slider img{
+  width: 100%;
+  left: 0;
+  position: sticky;
+  object-fit: cover;
+  scroll-snap-align: center;
+}
+@media(max-width: 430px){
+  .contenedor-slider{
+    display: inline;
+    width: 100%;
+  }
+  .slider{
+    width: 430px;
+    margin: 0 auto 0 auto;
+  }
+  .info-precio{
+    display: flex;
+    margin: 10px 0 0 0px;
+  
+  }
+  .valor-precio{  
+    color: orange;
+    font-size: 1.8em;
+  }
+  .titulo-precio{
+    color: rgb(0, 8, 116);
+    font-size: 1em;
+  }
+  .contenedor-precio{
+    margin: 0 0 0 30px;
+  }
+}

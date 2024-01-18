@@ -1,0 +1,38 @@
+.internas{
+  margin: 15px 0 0 0;
+}
+.ttl-internas{
+    margin: 0 0 5px 150px;
+    color: rgb(0, 8, 116);
+    font-size: 1.5em;
+  }
+  .contenedor-internas{
+    display: flex;
+    justify-content: center;
+    margin: 6px 0 10px 0 ;
+    font-size: 14px;
+  }
+  .lista-internas{
+    display: grid;
+    grid-template-columns: repeat(4, 230px);
+  }
+  @media(max-width: 430px){
+    .internas{
+      margin: 10px 0 0 0;
+    }
+    .ttl-internas{
+      margin: 0 0 0 30px;
+      color: rgb(0, 8, 116);
+      font-size: 1.5em;
+    }
+    .contenedor-internas{
+      display: inline;
+      font-size: 12px;
+    }
+    .lista-internas{
+      display: inline;
+    }   
+    .contenedor-lista{
+      margin: 0 0 0 60px;
+    } 
+  }
