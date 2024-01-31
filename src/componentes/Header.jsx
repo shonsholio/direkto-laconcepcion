@@ -12,7 +12,7 @@ function Header() {
           alt="logo direkto" />
         </div>
 
-        <h1 className='titulo'>Apartamento en Venta, Sector Ciudad Jardin</h1>
+        <h1 className='titulo'>Apartamento Dúplex, Sector La Concepción</h1>
         
       </div>
     </div>

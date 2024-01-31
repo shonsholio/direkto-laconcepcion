@@ -12,22 +12,24 @@ function Descripcion() {
       <div className='contenedor-adicional'>
         <div className='contenedor-descripcion'>
           <p className='texto-descripcion'>
-              ¡Anímate a disfrutar de la tranquilidad y la comodidad de este amplio apartamento ubicado en Barranquilla, Atlántico! Con un área construida de 78.5m2 y 2 alcobas, 2 baños, 1 garaje, este lujoso apartamento ofrece toda la comodidad necesaria para una excelente experiencia de vida.
+            Hermoso y amplio apartamento dúplex, ubicado en el corazón ejecutivo del norte de Barranquilla. Sus espacios internos son amplios, frescos y con buena luz natural, ya que su ubicación con vista al río, permite disfrutar de una agradable temperatura al interior de la unidad.
           </p>
           <br />
           <p className='texto-descripcion'>
-              Su diseño moderno y acogedor te invita a disfrutar de todas las características con las que fue diseñado interiormente: balcón,baño auxiliar,baño en habitación principal,clósets,cocina tipo americano,gas domiciliario,hall de alcobas,jacuzzi,suelo de cerámica / mármol y turco. Además, podrás disfrutar de una vista panorámica desde su terraza.
-          </p>
-          <br />
-
-          <p className='texto-descripcion'>
-              Exteriormente, el apartamento cuenta con todas las comodidades que requiere la vida moderna: acceso pavimentado, Área social, ascensor, barbacoa / parrilla / quincho, centros comerciales, club house, cochera / garaje, colegios / universidades, garaje, garita de entrada, gimnasio, oficina de negocios, parqueadero visitantes, parques cercanos, piscina, planta eléctrica, portería / recepción, salón comunal, terraza, transporte público cercano, urbanización cerrada, vigilancia, vivienda multifamiliar y zona residencial.
+              Su diseño clásico y acogedor te invita a disfrutar de todas las características con las que fue diseñado, además, ha sido remodelado con acabados de primera categoría.  
           </p>
           <br />
 
           <p className='texto-descripcion'>
-              ¡Aprovecha y disfruta de la mejor experiencia de vida en este apartamento ubicado en Barranquilla, Atlántico! Contarás con todo lo necesario para pasar excelentes días en este espacio acogedor. ¡Aprovecha!
+            Uno de los grandes atractivos de esta unidad, es su terraza exterior, que conecta la dinámica de la urbe con la paz de la naturaleza, construyendo de este modo, espacios que invitan al balance visual y de energías.
           </p>
+          <br />
+
+          <p className='texto-descripcion'>
+              ¡Aprovecha y disfruta de la mejor experiencia de vida en este apartamento ubicado en La concepción, Barranquilla! Puedes agendar cita al 3002468126 o 3008380514. ¡Direkto, es mejor!
+          </p>
+          <br />
+          <br />
 
         </div>
 

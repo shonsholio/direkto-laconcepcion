@@ -11,9 +11,7 @@ function Maps() {
 
     <div className='contenedor-mapa'>
       <div className='contenedor-google-maps'>
-        <map>
 
-        </map>
       </div>
     </div>
     </div>

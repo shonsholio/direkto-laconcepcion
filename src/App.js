@@ -5,7 +5,6 @@ import Externas from './componentes/Externas.jsx';
 import Galeria from './componentes/Galeria.jsx';
 import Header from './componentes/Header.jsx';
 import Internas from './componentes/Internas.jsx';
-import Maps from './componentes/Maps.jsx';
 
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
         <Internas />
         <Externas />
         <Descripcion />
-        <Maps />
 
       </body>
 

@@ -18,14 +18,13 @@ function Galeria() {
           <img className='foto' src={require("../imagenes/9.jpg")} alt='9' />
           <img className='foto' src={require("../imagenes/10.jpg")} alt='10' />
           <img className='foto' src={require("../imagenes/11.jpg")} alt='11' />
-          <img className='foto' src={require("../imagenes/12.jpg")} alt='12' />
         </div>
       </div>
 
       <div className='info-precio'>
         <div className='contenedor-precio'>
           <h6 className='titulo-precio'>Precio de venta</h6>
-          <h5 className='valor-precio'>$ 320.000.000</h5>
+          <h5 className='valor-precio'>$ 380.000.000</h5>
         </div>
       </div>
     </div>

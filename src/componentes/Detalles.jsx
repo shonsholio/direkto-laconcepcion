@@ -17,14 +17,14 @@ function Detalles() {
             <li>Departamento:   Atlántico</li>
             <li>Ciudad:   Barranquilla</li>
             <li>Localidad:   Norte Centro Histórico</li>
-            <li>Zona:   Ciudad Jardín</li>
-            <li>Area:   80 m2</li>
-            <li>Habitaciones: 2</li>
-            <li>Baños: 2</li>
+            <li>Zona:   La Concepción</li>
+            <li>Area:   160 m2</li>
+            <li>Habitaciones: 4</li>
+            <li>Baños: 3</li>
             <li>Garaje: 1</li>
-            <li>Estrato: 5</li>
-            <li>Nivel: 7</li>
-            <li>Año de Construcción: 2018</li>
+            <li>Estrato: 4</li>
+            <li>Nivel: 3</li>
+            <li>Depósito:  Si</li>
             <li>Tipo de Inmueble: Apartamento</li>
             <li>Negocio: Venta</li>
           </ul> 

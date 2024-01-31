@@ -12,16 +12,16 @@ function Internas() {
       <div className='contenedor-internas'>
         <div className='contenedor-lista'>
           <ul className='lista-internas'> 
-            <li>Balcón</li>
+            <li>Terraza techada</li>
             <li>Baño auxiliar</li>
             <li>Baño en habitación principal</li>
             <li>Clósets</li>
-            <li>Cocina tipo americano</li>
+            <li>Cocina cerrada</li>
             <li>Gas domiciliario</li>
             <li>Hall de alcobas</li>
-            <li>Jacuzzi</li>
-            <li>Suelo de porcelanato</  li>
-            <li>Turco</li>  
+            <li>Lado sombra</li>
+            <li>Pisos en porcelanato</  li>
+            <li>Estudio</li>  
             <li>Vista panorámica</li>
             <li>Zona de lavandería</li>
           </ul>
